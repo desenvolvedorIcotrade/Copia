@@ -1,13 +1,4 @@
-<!DOCTYPE html>
 
-
-<html>
-
-  
-  
-  
-  
-<head>
 <style> 
 div {
   width: 1000px;
@@ -41,8 +32,7 @@ div {
   to {left: 300px;}
 }
 </style>
-</head>
-<body>
+
 
 <p><strong>Dev</strong> The animations.</p>
 
@@ -63,5 +53,3 @@ div {
 <div id="div5"> awesome </div>
 
 
-</body>
-</html>
